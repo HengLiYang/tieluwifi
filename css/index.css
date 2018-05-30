@@ -132,3 +132,23 @@
     color:rgba(0,0,0,0.87);
     line-height:0.22rem;
 }
+.weui-flex__item {
+    text-align: center;
+}
+.swiper-container {
+    margin-left: 0.16rem;
+    margin-right: 0.16rem;
+}
+.swiper-slide {
+    width: 90%;
+}
+.swiper-slide-next, .swiper-slide-prev {
+    transform: scale(.95);
+}
+.swiper-slide img{
+    width: 100%;
+    border-radius: 8px;
+}
+.games-wrapper {
+    margin-bottom: .16rem;
+}
