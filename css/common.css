@@ -1,11 +1,25 @@
 .font_size12 {
     font-size: .12rem
 }
+.font_size13 {
+    font-size: .13rem
+}
+.font_size15 {
+    font-size: .15rem;
+}
+
 .font_size16 {
     font-size: .16rem;
 }
+
+.font_size17 {
+    font-size: .17rem;
+}
 .font_size20 {
     font-size: .20rem;
+}
+.font_size24 {
+    font-size: .24rem;
 }
 .marginlr15 {
     margin-left: .15rem;
@@ -27,13 +41,13 @@
 .marginT50 {
     margin-top: 50px;
 }
-
+.line_h24 {
+    line-height: 24px;
+}
 .line_h28 {
     line-height: 28px;
 }
-p {
-    margin-bottom: 0;
-}
+
 button {
     border: none;
 }
@@ -63,7 +77,10 @@ button {
 .theme_fontcolor {
     color: #1E96FF
 }
-h2, label {
+.gray_bgColor {
+    background-color: #F5F5F5;
+}
+h2, label, p, h4 {
     margin-bottom: 0;
 }
 .weui-media-box_appmsg {
